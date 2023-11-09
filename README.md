@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @FLYNNBRIGHT.
-- 👀 I’m interested in Web3development. 
-- 🌱 I’m currently learning HTML. 
+- 👋 Hi, I’m FLYNNBRIGHT aka Nightshade_97.
+- 👀 I’m interested in Secure Software Engineering. 
+- 🌱 I’m currently learning Javascript. 
 - 💞️ I’m looking to collaborate on other programming languages. 
 - 📫 How to reach me is on my linkedIn page @ https://www.linkedin.com/in/ukpe-bright-0834a11a1
 
