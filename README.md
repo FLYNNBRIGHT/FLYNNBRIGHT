@@ -2,7 +2,7 @@
 - 👀 I’m interested in Secure Software Engineering. 
 - 🌱 I’m currently learning Javascript. 
 - 💞️ I’m looking to collaborate on other programming languages. 
-- 📫 How to reach me is on my linkedIn page @ https://www.linkedin.com/in/ukpe-bright-0834a11a1
+- 📫 Here is the link to my port-folio https://flynnbright.github.io/Nightshade.tech
 
 <!---
 FLYNNBRIGHT/FLYNNBRIGHT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
